@@ -164,7 +164,7 @@
 前/后驻车雷达,前○&nbsp;/&nbsp;后●,前-&nbsp;/&nbsp;后●,前-&nbsp;/&nbsp;后●,前○&nbsp;/&nbsp;后●,前-&nbsp;/&nbsp;后●,前-&nbsp;/&nbsp;后●
 前/后电动车窗,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●
 前/后排头部气囊(气帘),前●&nbsp;/&nbsp;后●,-,-,前●&nbsp;/&nbsp;后●,-,-
-前/后排侧气囊,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-
+前/后排侧气囊,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,-
 前/后中央扶手,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后-
 刹车辅助(EBA/BAS/BA等),●,●,●,●,●,●
 制动力分配(EBD/CBC等),●,●,●,●,●,●
@@ -182,7 +182,7 @@
 上坡辅助,-,-,-,-,-,-
 WLTC综合油耗(L/100km),6.94,6.25,6.94,6.94,6.25,6.25
 USB/Type-C接口数量,,,,,,
-OTA升级,●,●,●,●,●,●
+OTA升级,-,-,-,-,-,-
 NEDC综合油耗(L/100km),6.2,5.6,6.2,6.2,5.6,5.6
 LED日间行车灯,●,●,●,●,●,●
 ISOFIX儿童座椅接口,●,●,●,●,●,●
