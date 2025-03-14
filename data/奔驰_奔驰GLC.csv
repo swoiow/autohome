@@ -37,9 +37,9 @@
 车窗防夹手功能,●,●,●,●,●,●,●,●,●,●,●,●,●,●
 车窗一键升降功能,,,,,,,,,,,,,,
 车机智能芯片,-,-,-,-,-,-,-,-,,,,,,
-车型名称,奔驰GLC 2024款 GLC 260 L 4MATIC 动感型 5座,奔驰GLC 2024款 GLC 260 L 4MATIC 动感型 7座,奔驰GLC 2024款 GLC 300 L 4MATIC 豪华型 5座,奔驰GLC 2024款 GLC 300 L 4MATIC 豪华型 7座,奔驰GLC 2024款  改款 GLC 260 L 4MATIC 豪华型 5座,奔驰GLC 2024款 改款 GLC 260 L 4MATIC 豪华型 7座,奔驰GLC 2024款 改款 GLC 300 L 4MATIC 动感型 5座,奔驰GLC 2024款 改款 GLC 300 L 4MATIC 动感型 7座,奔驰GLC 2025款 GLC 260 L 4MATIC 动感型 5座,奔驰GLC 2025款 GLC 260 L 4MATIC 豪华型 5座,奔驰GLC 2025款 GLC 300 L 4MATIC 动感型 5座,奔驰GLC 2025款 GLC 300 L 4MATIC 动感型 7座,奔驰GLC 2025款 GLC 300 L 4MATIC 豪华型 5座,奔驰GLC 2025款 GLC 300 L 4MATIC 豪华型 7座
+车型名称,奔驰GLC 2024款 GLC 260 L 4MATIC 动感型 5座,奔驰GLC 2024款 GLC 260 L 4MATIC 动感型 7座,奔驰GLC 2024款 GLC 300 L 4MATIC 豪华型 5座,奔驰GLC 2024款 GLC 300 L 4MATIC 豪华型 7座,奔驰GLC 2024款  改款 GLC 260 L 4MATIC 豪华型 5座,奔驰GLC 2024款 改款 GLC 260 L 4MATIC 豪华型 7座,奔驰GLC 2024款 改款 GLC 300 L 4MATIC 动感型 5座,奔驰GLC 2024款 改款 GLC 300 L 4MATIC 动感型 7座,奔驰GLC 2025款 GLC 260 L 4MATIC 动感型,奔驰GLC 2025款 GLC 260 L 4MATIC 豪华型,奔驰GLC 2025款 GLC 300 L 4MATIC 动感型 5座,奔驰GLC 2025款 GLC 300 L 4MATIC 动感型 7座,奔驰GLC 2025款 GLC 300 L 4MATIC 豪华型 5座,奔驰GLC 2025款 GLC 300 L 4MATIC 豪华型 7座
 车前雾灯,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-车内香氛装置,-,-,○,○,-,-,-,-,-,-,-,-,-,-
+车内香氛装置,-,-,○,○,-,-,-,-,○,○,○,○,○,○
 车内环境氛围灯,,,,,,,,,,,,,,
 车内化妆镜,,,,,,,,,,,,,,
 车内中控锁,●,●,●,●,●,●,●,●,●,●,●,●,●,●
@@ -47,7 +47,7 @@
 车侧脚踏板,-,,,,-,,,,,,,,,
 车体结构,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式,承载式
 超声波雷达数量,-,-,-,-,-,-,-,-,,,,,,
-负离子发生器,-,-,○,○,-,-,-,-,○,○,○,○,○,○
+负离子发生器,-,-,○,○,-,-,-,-,-,-,-,-,-,-
 语音连续识别,●,●,●,●,●,●,●,●,●,●,●,●,●,●
 语音识别控制系统,,,,,,,,,,,,,,
 语音助手唤醒词,-,-,-,-,-,-,-,-,,,,,,
@@ -87,6 +87,7 @@
 油箱容积(L),66,66,66,66,66,66,66,66,66,66,66,66,66,66
 气缸数(个),4,4,4,4,4,4,4,4,4,4,4,4,4,4
 气缸排列形式,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+毫米波雷达数量,-,-,-,-,-,-,-,-,,,,,,
 每缸气门数(个),4,4,4,4,4,4,4,4,4,4,4,4,4,4
 最高车速(km/h),212,212,223,223,212,212,223,223,212,212,223,223,223,223
 最大马力(Ps),204,204,258,258,204,204,258,258,204,204,258,258,258,258
@@ -176,7 +177,7 @@
 前/后驻车雷达,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●
 前/后电动车窗,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●
 前/后排头部气囊(气帘),前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●
-前/后排侧气囊,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○
+前/后排侧气囊,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○,前●&nbsp;/&nbsp;后-,前●&nbsp;/&nbsp;后○
 前/后中央扶手,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●,前●&nbsp;/&nbsp;后●
 刹车辅助(EBA/BAS/BA等),●,●,●,●,●,●,●,●,●,●,●,●,●,●
 制动力分配(EBD/CBC等),●,●,●,●,●,●,●,●,●,●,●,●,●,●
@@ -186,6 +187,7 @@
 侧窗多层隔音玻璃,-,-,,,-,-,-,-,-,-,-,-,,
 供油方式,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷,直喷
 主座椅调节方式,,,,,,,,,,,,,,
+主动式环境氛围灯,-,-,-,-,-,-,-,-,●,●,●,●,●,●
 主动刹车/主动安全系统,●,●,●,●,●,●,●,●,●,●,●,●,●,●
 主/副驾驶座电动调节,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●
 主/副驾驶座安全气囊,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●,主●&nbsp;/&nbsp;副●
