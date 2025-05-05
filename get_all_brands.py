@@ -1,4 +1,3 @@
-import base64
 import logging
 
 import pandas as pd
@@ -21,15 +20,15 @@ def get_all_brands():
         page = browser.new_page(user_agent=USER_AGENT)
         page.goto(DOMAIN)
 
-        doms = page.locator('#cartree').locator('h3').all()
+        doms = page.locator("#cartree").locator("h3").all()
         for d in doms:
             d.click(delay=300)  #
             page.wait_for_load_state("domcontentloaded")
-            for item in page.locator('#cartree').locator("ul dl dd").all():
-                element_a = item.locator('a')
+            for item in page.locator("#cartree").locator("ul dl dd").all():
+                element_a = item.locator("a")
                 car_series_title = item.inner_text().strip()
-                car_series_id = element_a.get_attribute('id').strip()
-                car_series_uri = element_a.get_attribute('href').strip()
+                car_series_id = element_a.get_attribute("id").strip()
+                car_series_uri = element_a.get_attribute("href").strip()
 
                 log = f"{car_series_title},{car_series_id},{fix_relative_url(DOMAIN, car_series_uri)}"
                 bucket.append(log)
@@ -39,5 +38,5 @@ def get_all_brands():
     pd.DataFrame([i.split(",") for i in bucket]).to_csv("brands.csv", index=False, encoding="utf-8-sig")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     get_all_brands()
