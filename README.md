@@ -7,6 +7,7 @@
 
 - Scrape source code online. -- 源代码网上抄，不提供源代码。
 - Check for omissions and fill gaps [brands.csv](brands.csv).（查漏补缺 [brands.csv](brands.csv)）
+- Data history.（[Branch： vaults](https://github.com/swoiow/autohome/tree/vaults)）
 
 **Announcement:** Welcome to, [https://brief-stg.pylab.me/](https://brief-stg.pylab.me/)
 
